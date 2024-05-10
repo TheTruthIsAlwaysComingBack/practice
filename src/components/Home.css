@@ -1,0 +1,8 @@
+.contenedor_principal {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6rem;
+  margin: 5rem;
+  justify-content: center;
+}
